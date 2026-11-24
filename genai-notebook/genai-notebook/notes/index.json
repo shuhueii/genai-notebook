@@ -1,0 +1,68 @@
+{
+  "generatedAt": "2026-11-24T08:31:05.648Z",
+  "notes": [
+    {
+      "id": "01-what-is-genai",
+      "title": "生成式 AI 是什麼：從「分類」到「創造」",
+      "lesson": 1,
+      "category": "basics",
+      "date": "2026-09-08",
+      "summary": "生成式 AI 和傳統 AI 差在哪？文字與圖像生成共通的核心概念。",
+      "tags": [
+        "生成式AI",
+        "機率分布",
+        "Token"
+      ],
+      "order": 1,
+      "readingMinutes": 4
+    },
+    {
+      "id": "02-llm-and-transformer",
+      "title": "語言模型與 Transformer：文字接龍的藝術",
+      "lesson": 2,
+      "category": "text",
+      "date": "2026-09-15",
+      "summary": "LLM 怎麼一個字一個字寫出文章？注意力機制與抽樣參數。",
+      "tags": [
+        "LLM",
+        "Transformer",
+        "Attention",
+        "Temperature"
+      ],
+      "order": 2,
+      "readingMinutes": 4
+    },
+    {
+      "id": "03-diffusion-models",
+      "title": "擴散模型：從雜訊中長出圖像",
+      "lesson": 3,
+      "category": "image",
+      "date": "2026-09-22",
+      "summary": "先加雜訊、再學去噪：擴散模型的直覺與 Stable Diffusion 架構。",
+      "tags": [
+        "Diffusion",
+        "DDPM",
+        "Stable Diffusion",
+        "CFG"
+      ],
+      "order": 3,
+      "readingMinutes": 5
+    },
+    {
+      "id": "04-agents-and-agents-md",
+      "title": "AI Agent 與 AGENTS.md：讓 AI 照規矩做事",
+      "lesson": 4,
+      "category": "practice",
+      "date": "2026-09-29",
+      "summary": "Agent = 模型 + 工具迴圈；用 AGENTS.md 把專案規則交代清楚。",
+      "tags": [
+        "AI Agent",
+        "AGENTS.md",
+        "CLAUDE.md",
+        "Context"
+      ],
+      "order": 4,
+      "readingMinutes": 4
+    }
+  ]
+}
